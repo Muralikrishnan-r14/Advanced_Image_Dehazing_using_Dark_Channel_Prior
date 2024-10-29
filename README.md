@@ -2,8 +2,8 @@
 
 🧩 Problem Statement
 
- Autonomous vehicles, drones, surveillance systems, robotic vision, and fire rescue operations rely heavily on computer vision for tasks such as object detection, obstacle avoidance, and lane detection. However, environmental conditions like haze, fog, and smoke degrade image quality, making it difficult to accurately identify objects and boundaries.
-The goal of this project is to restore clear images from hazy or foggy environments in real-time to enhance the performance of these vision-based systems. Specifically, dehazing is critical in improving the safety and reliability of autonomous vehicles operating in adverse weather conditions, ensuring proper recognition of pedestrians, vehicles, and other obstacles.
+ Autonomous vehicles, drones, surveillance systems, and robotics heavily rely on computer vision for critical tasks like object detection, obstacle avoidance, lane recognition, and navigation. However, environmental conditions such as haze, fog, smoke, and mist significantly impair the clarity of visual data, making it challenging to detect objects and navigate accurately.
+This problem becomes especially critical in complex terrains like hill stations with sharp curves, hairpin bends, and steep gradients, where precise object identification and road boundary detection are essential to avoid accidents. In such areas, vehicles and drones need to accurately detect pedestrians, road signs, oncoming traffic, and unexpected obstacles under poor visibility conditions caused by adverse weather.
  
 📜 Overview
 
