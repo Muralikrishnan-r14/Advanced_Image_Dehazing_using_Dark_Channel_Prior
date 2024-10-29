@@ -80,7 +80,7 @@ def main():
         # Perform dehazing
         dehazed_frame = dehaze(frame)
 
-        # Display the original and dehazed frames
+        # Display the original and dehazed frame
         cv2.imshow('Original', frame)
         cv2.imshow('Dehazed', dehazed_frame)
 
