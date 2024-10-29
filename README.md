@@ -1,6 +1,7 @@
 # 🚗 Advanced Image Dehazing using Dark Channel Prior
 
-🧩 Problem Statemen
+🧩 Problem Statement
+
  Autonomous vehicles, drones, surveillance systems, robotic vision, and fire rescue operations rely heavily on computer vision for tasks such as object detection, obstacle avoidance, and lane detection. However, environmental conditions like haze, fog, and smoke degrade image quality, making it difficult to accurately identify objects and boundaries.
 The goal of this project is to restore clear images from hazy or foggy environments in real-time to enhance the performance of these vision-based systems. Specifically, dehazing is critical in improving the safety and reliability of autonomous vehicles operating in adverse weather conditions, ensuring proper recognition of pedestrians, vehicles, and other obstacles.
  
