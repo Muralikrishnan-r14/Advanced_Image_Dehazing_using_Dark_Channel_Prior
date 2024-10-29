@@ -9,16 +9,15 @@ This problem becomes especially critical in complex terrains like hill stations 
 🎯 Goals
 
 The primary goal of this project is to restore image clarity in real time, thereby enhancing the performance of computer vision systems across multiple domains. This real-time dehazing solution aims to improve safety, reliability, and performance in challenging environments by ensuring:
+1.Autonomous Vehicles: Safe driving through foggy hill stations, maintaining lane discipline, and avoiding obstacles on curves and bends.
 
-Autonomous Vehicles: Safe driving through foggy hill stations, maintaining lane discipline, and avoiding obstacles on curves and bends.
+2.Drones: Precision obstacle avoidance and tracking while navigating through low-visibility environments, such as mountain paths and forests.
 
-Drones: Precision obstacle avoidance and tracking while navigating through low-visibility environments, such as mountain paths and forests.
+3.Fire Rescue Operations: Efficiently identifying trapped individuals and hazards in smoke-filled areas to streamline rescue missions.
 
-Fire Rescue Operations: Efficiently identifying trapped individuals and hazards in smoke-filled areas to streamline rescue missions.
+4.Surveillance Systems: Effective monitoring of activities and tracking objects in foggy or smoky conditions in both urban and remote environments.
 
-Surveillance Systems: Effective monitoring of activities and tracking objects in foggy or smoky conditions in both urban and remote environments.
-
-Robotic Vision Systems: Accurate path planning and object manipulation in outdoor conditions affected by haze and mist.
+5.Robotic Vision Systems: Accurate path planning and object manipulation in outdoor conditions affected by haze and mist.
 
 By restoring visibility, this project enhances vision-based systems, facilitating better decision-making and operational efficiency in diverse applications.
 
