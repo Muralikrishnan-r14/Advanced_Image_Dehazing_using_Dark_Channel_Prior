@@ -1,4 +1,4 @@
-# 🚗 Advanced Image Dehazing using Dark Channel Prior
+# 🚗 Image Dehazing using Dark Channel Prior
 
 🧩 Problem Statement
 
